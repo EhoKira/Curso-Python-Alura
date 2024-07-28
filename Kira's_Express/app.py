@@ -6,6 +6,7 @@ restaurantes = [{"nome": "Pizzelle", "categoria": "Pizza Frita", "ativo": False}
                 {"nome": "Cabra's Burger", "categoria": "Hamburgueria", "ativo": True}]
                 
 def exibir_nome_do_programa():
+    """  """
     print("""
     ██╗░░██╗██╗██████╗░░█████╗░██╗░██████╗
     ██║░██╔╝██║██╔══██╗██╔══██╗╚█║██╔════╝
